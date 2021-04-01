@@ -1240,7 +1240,7 @@ Version:1.0
 	margin-bottom: 35px;
 }
 .hero-slider .hero-text .button{
-	margin:0;
+	margin :0;
 }
 .hero-slider .hero-text .btn {
 	color: #fff;
@@ -1315,7 +1315,9 @@ Version:1.0
 .hero-area2 .single-slider .content .des{
 	color:#fff;
 }
-.hero-area2 .single-slider .content .button{}
+.hero-area2 .single-slider .content .button{
+
+}
 .hero-area2 .single-slider .content .button .btn {
 	padding: 9px 25px;
 	border: 2px solid #fff;
@@ -1530,8 +1532,8 @@ Version:1.0
 	position:relative;
 }
 .small-banner .single-banner img{
-	height:25em;
-	width:100%;
+	height:20em;
+	width:30em;
 	-webkit-transition:all 0.4s ease;
 	-moz-transition:all 0.4s ease;
 	transition:all 0.4s ease;
@@ -1587,8 +1589,8 @@ Version:1.0
 	position:relative;
 }
 .midium-banner .single-banner img{
-	height:50em;
-	width:100%;
+	height:25em;
+	width:30;
 	-webkit-transition:all 0.4s ease;
 	-moz-transition:all 0.4s ease;
 	transition:all 0.4s ease;
